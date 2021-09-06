@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=dumpling
-device.name2=cheeseburger
+device.name1=OnePlus7Pro
+device.name2=guacamole
 device.name3=
 device.name4=
 device.name5=
@@ -21,7 +21,7 @@ supported.patchlevels=
 
 # shell variables
 block=boot;
-is_slot_device=0;
+is_slot_device=auto;
 ramdisk_compression=auto;
 
 
